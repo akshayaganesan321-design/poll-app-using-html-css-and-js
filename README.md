@@ -1,0 +1,1 @@
+To design and develop a simple and interactive College Leader Election Voting System using HTML, CSS, and JavaScript that allows students to log in using their Email and Roll Number, cast their vote for a candidate, and view live election results with winner announcement.
